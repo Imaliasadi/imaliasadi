@@ -69,9 +69,3 @@
 
 _"Perfection is not attainable, but if we chase perfection, we can catch excellence."_  
 — Vince Lombardi
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imaliasadi&label=Profile%20views&color=0e75b6&style=flat" alt="imaliasadi" />
-</p>
