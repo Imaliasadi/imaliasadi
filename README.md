@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Asadi</h1>
-<h3 align="center">A passionate Frontend Developer and Educator with a strong eye for design and detail</h3>
+<h3 align="center">A passionate Frontend Developer with a strong eye for design and detail</h3>
 
 ---
 
