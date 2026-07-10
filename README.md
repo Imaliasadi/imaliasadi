@@ -47,48 +47,6 @@ I'm a passionate **Frontend Developer** specializing in building scalable, user-
 
 ---
 
-## 🎮 Featured Projects
-
-### [RPS GAME](https://github.com/imaliasadi/rps-game)
-
-Interactive rock-paper-scissors game with user authentication and real-time features.
-
-**Key Features:**
-
-- 🔐 Email & Password Authentication with Email Verification
-- 📊 Real-time Game Statistics & User Profiles
-- ✨ Smooth Animations & Responsive UI
-- 📱 PWA Support
-
-**Tech:** React • TypeScript • Firebase • Tailwind CSS • Vite
-
----
-
-### [GAME HUB](https://github.com/imaliasadi/game-hub)
-
-Comprehensive game discovery platform with advanced filtering and search capabilities.
-
-**Key Features:**
-
-- 🔍 Professional Game Filtering with Multiple Filter Options
-- ∞ Infinite Scroll Pagination
-- 🌙 Dark/Light Mode Support
-- ⚡ Real-time Data Fetching with React Query
-
-**Tech:** React • TypeScript • Chakra UI • React Query • Axios • Zustand
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imaliasadi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imaliasadi&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 💬 Let's Connect
